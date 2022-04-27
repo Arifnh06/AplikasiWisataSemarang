@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Wisata Semarang</string>
+    <string name="textlawangsewu">
+        Lawang Sewu merupakan salah satu tempat wisata Semarang favorit yang terletak di Jalan Pemuda, Sekayu, Kecamatan Semarang Tengah, Kota Semarang.
+        Lawang Sewu didirikan pada 27 Februari 1904. Dulunya, tempat ini disebut Het Hoofdkantoor van de Nederlandsch-Indische Spoorweg Maatscappij.
+        Lawang Sewu memiliki arti seribu pintu. Namun, jumlah sebenarnya hanya 928 pintu dengan 425 frame dan 114 ruang kerja, tidak termasuk ruang meeting.
+        Museum ini menyimpan berbagai koleksi perkeretaapian di Indonesia dari masa ke masa. Lawang Sewu juga dapat disewa untuk berbagai kegiatan, seperti
+        pameran, pemotretan, syuting, pesta pernikahan, pentas seni, bazar, dan workshop.
+    </string>
+
+    <string name="textkotalama">
+        Jejak peninggalan kolonial di Semarang dapat dijumpai di kawasan Kota Lama yang terletak di Jalan Letjen Suprapto, Tanjung Mas, Kecamatan Semarang Utara, Kota Semarang.
+        Ketika berkunjung ke Kota Lama, kita akan merasakan sensasi seperti berada di luar negeri. Sebab, bangunan di sana memiliki gaya khas Eropa yang tak hanya menarik tetapi
+        juga pas dijadikan latar berfoto. Di Kota Lama, pengunjung juga dapat bersantai di Taman Srigunting, membeli barang-barang antik, berkeliling dengan sepeda, atau berkunjung
+        ke Galeri Semarang dan Gereja Blenduk. Fasilitas di Kota Lama yang tersedia, antara lain toilet, mushala, restoran dan kafe, museum, juga penyewaan sepeda.
+        Pengunjung tak perlu mengeluarakan biaya tiket masuk untuk mengunjungi Kota Lama alias gratis. Namun, mereka akan dikenakan biaya untuk menyewa sepeda dan menikmati fasilitas lainnya yang berbayar.
+    </string>
+
+    <string name="textbukitcinta">
+        Jika berencana berburu tempat foto yang menarik, unik, dan Instagramable, Bukit Cinta Rawa Pening bisa menjadi pilihan. Sebagai tempat wisata yang populer,
+        Bukit Cinta Rawa Pening kerap dipadati pengunjung yang ingin berfoto atau sekadar bersantai. Di tempat ini, pengunjung bisa menemukan jembatan panjang yang terletak di atas rawa
+        dan patung naga berukuran besar yang sering menjadi lokasi foto pengujung.
+    </string>
+
+    <string name="textelingbening">
+        Di Eling Bening wisatawan tak hanya bisa menikmati suasana alam yang asri, tapi juga dapat melihat keindahan Rawa Pening dan Gunung Ungaran.
+        Fasilitas yang tersedia cukup lengkap dan cocok menjadi destinasi liburan keluarga, seperti kolam renang, kafe, restoran, tempat outbound, dan camping ground.
+    </string>
+
+    <string name="textsaloka">
+        Saloka Theme Park menawarkan banyak wahana menarik untuk segala umur, seperti wisata edukasi dan sejumlah wahana yang memacu adrenalin.
+        Beberapa wahana yang bisa dicoba seperti Zoma Kamayayi, Zona Ararya, Zona Segara Prada, Zona Pesisir, Zona Belantara, dan lain-lain.
+        Taman bermain ini buka setiap hari. Jadi, wisatawan bisa datang ke sini mulai pukul 10.00 sampai 19.00 WIB.
+    </string>
+
+    <string name="textcandigedungsongo">
+        Destinasi wisata berikutnya yang menarik adalah liburan ke Candi Gedong Songo. Lokasinya ada di Kecamatan Bandungan, Kabupaten Semarang, Jawa Tengah.
+        Candi yang berada di ketinggian 1.200 meter di atas permukaan laut itu memiliki pemandangan yang cantik dan menyegarkan mata.
+        Tempat wisata ini juga dilengkapi dengan kolam pemandian air panas yang memiliki kandungan belerang.
+    </string>
+
+    <string name="textmerbabuview">
+        Merbabu View dan Café bisa menjadi pilihan jika ingin bersantai sambil menyantap sajian lezat bersama keluarga atau kerabat.
+        Kafe dengan tema semi-outdoor ini memungkinkan penunjung melihat pemandangan Gunung Merbabu.
+        Tempat ini juga memiliki arsitektur yang unik dan dekorasi yang Instagramable, cocok bagi pengunjung yang ingin berswafoto.
+    </string>
+
+    <string name="textdusunsemilir">
+        Dusun Semilir adalah tempat wisata di Semarang yang mengusung konsep Eco Park, dengan stupa Candi Borobudur yang menjadi ikonnya.
+        Lokasinya ada di Jalan Soekarno Hatta Nomor 49, Bawen, Kabupaten Semarang. Tak hanya memiliki banyak spot foto, Dusun Semilir juga memiliki restoran dan penginapan dengan nuansa alam.
+        Jam buka Dusun Semilir saat hari kerja adalah pukul 08.00 sampai 18.00 WIB, sedangkan saat akhir pekan pukul 08.00 hingga 19.00 WIB.
+    </string>
+
+    <string name="textcimory">
+        Wisatawan yang berkunjung ke Semarang di momen libur akhir tahun bisa menjajal wisata ke Cimory on the Valley.
+        Tempat wisata yang telah dibuka sejak 2020 ini memiliki banyak sekali hiburan menarik dan seru.
+        Ada sejumlah wahana edukasi, menunggang kuda, tur memerah susu sapi, dan memberi makanan ternak.
+        Di hari kerja, tempat wisata ini buka pada pukul 08.00 sampai 18.00 WIB, sementara akhir pekan pukul 08.00 hingga 20.00 WIB.
+    </string>
+
+    <string name="textcelosia">
+        Taman Bunga Celosia memiliki tiga area yang berada di kaki Gunung Ungaran, tepatnya terletak di Jalan Candi Gedong Songo, Beroken, Candi, Kecamatan Bandungan, Kabupaten Semarang.
+        Meski disebut taman bunga celosia, di taman ini juga terdapat bunga lain, seperti hebras, lavender, dan krisan. Tidak hanya kebun bunga yang bisa dijadikan spot foto.
+        Di sini, ada pula berbagai spot foto menarik yang Instagramable, seperti rumah hobbit, balon udara, Rural Japanese, White Marine Park, New Little Korea, Little Amsterdam, dan Taman Lampion.
+    </string>
+
+    <string name="textargowisatakopeng">
+        Jika mencari tempat untuk menikmati suasana yang alami dengan berbagai jenis tumbuhan, Argowisata Kopeng Gunungsari adalah pilihan yang baik.
+        Konsep tempat wisata ini memadukan taman bunga dengan menara pandang di atas pegunungan.
+        Lokasinya yang berada di ketinggian 3.145 di atas permukaan laut membuat udaranya terasa sangat dingin. Jadi, pastikan membawa jaket bila datang ke tempat ini.
+    </string>
+
+</resources>

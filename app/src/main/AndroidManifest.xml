@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aplikasilistwisatasemarang">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AplikasiListWisataSemarang">
+        <activity
+            android:name=".argowisata"
+            android:exported="false" />
+        <activity
+            android:name=".celosia"
+            android:exported="false" />
+        <activity
+            android:name=".cimory"
+            android:exported="false" />
+        <activity
+            android:name=".dusunsemilir"
+            android:exported="false" />
+        <activity
+            android:name=".merbabuview"
+            android:exported="false" />
+        <activity
+            android:name=".candigedungsongo"
+            android:exported="false" />
+        <activity
+            android:name=".saloka"
+            android:exported="false" />
+        <activity
+            android:name=".elingbening"
+            android:exported="false" />
+        <activity
+            android:name=".bukitcinta"
+            android:exported="false" />
+        <activity
+            android:name=".KotaLama"
+            android:exported="false" />
+        <activity
+            android:name=".lawangsewu"
+            android:exported="false" />
+        <activity
+            android:name=".WisataSemarang"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

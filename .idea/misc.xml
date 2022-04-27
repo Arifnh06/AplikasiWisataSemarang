@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_argowisata.xml" value="0.25" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_bukitcinta.xml" value="0.32971014492753625" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_candigedungsongo.xml" value="0.18802083333333333" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_celosia.xml" value="0.25" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_cimory.xml" value="0.18802083333333333" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_coba.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_dusunsemilir.xml" value="0.18802083333333333" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_elingbening.xml" value="0.18802083333333333" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_kota_lama.xml" value="0.2" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_lawangsewu.xml" value="0.33" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_merbabuview.xml" value="0.18802083333333333" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_saloka.xml" value="0.18802083333333333" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/activity_wisata_semarang.xml" value="0.25" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/app_bar_drawnavigator.xml" value="0.30570652173913043" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/content_drawnavigator.xml" value="0.25" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/instalan software/isi android/AplikasiListWisataSemarang/app/src/main/res/menu/drawnavigator.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
